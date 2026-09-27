@@ -1,0 +1,2 @@
+# AdaptivePillarboxBlur
+一个自适应分辨率的黑边高斯模糊遮罩
