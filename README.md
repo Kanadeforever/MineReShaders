@@ -1,4 +1,4 @@
-# ReShade Shaders
+# MineReShaders
 
 个人自用的 ReShade Shader 收藏仓库。
 
