@@ -1,0 +1,44 @@
+Retro2D
+Copyright (c) 2026 Luminous
+
+本目录下的 Retro2D.fx 采用 GNU General Public License 授权，版本 3（GPL-3.0）。
+授权文件即为本文件，位于 Retro2D/ 目录内。
+
+--------------------------------------------------------------------------------
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+--------------------------------------------------------------------------------
+
+GPL-3.0 授权全文（官方原文）：
+
+  https://www.gnu.org/licenses/gpl-3.0.txt
+  https://www.gnu.org/licenses/gpl-3.0.html
+
+官方译文列表（中文译本为非官方参考）：
+
+  https://www.gnu.org/licenses/translations.html
+
+--------------------------------------------------------------------------------
+
+授权范围：
+
+  - 本 GPL 只跟随 Retro2D 本身，约束范围是 Retro2D.fx 及其副本、修改版与再分发。
+  - 它不影响仓库的其他部分：AdaptiveBlur/ 目录下的 Shader 采用 MIT 授权，
+    见 ../AdaptiveBlur/LICENSE。
+  - 换言之：用到哪个，就遵守哪个的授权。
+
+设计参考：
+
+  CRT EasyMode by EasyMode（GPL）
+  Retro2D 是针对 ReShade FX 的独立重写 / 适配实现。
